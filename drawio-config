@@ -1,0 +1,75 @@
+{
+  "presetColors": [
+    "A067DA",
+    "02A8EF",
+    "FFCF25",
+    "14C6CB",
+    "00CA8E",
+    "EC585D",
+    "DC477D"
+  ],
+  "colorNames": {
+    "A067DA": "Terraform",
+    "02A8EF": "Packer",
+    "FFCF25": "Vault",
+    "14C6CB": "Waypoint",
+    "00CA8E": "Nomad",
+    "EC585D": "Boundary",
+    "DC477D": "Consul"
+  },
+  "customColorSchemes": [
+    [
+      {
+        "title": "Terraform",
+        "fill": "#A067DA",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Packer",
+        "fill": "#02A8EF",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Vault",
+        "fill": "#FFCF25",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Waypoint",
+        "fill": "#14C6CB",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Nomad",
+        "fill": "#00CA8E",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Boundary",
+        "fill": "#EC585D",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Consul",
+        "fill": "#DC477D",
+        "stroke": "#B3B3B3",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "Default",
+        "fill": "FFFFFF",
+        "stroke": "#000000",
+        "font": "#000000"
+      }
+    ]
+  ],
+  "defaultEdgeStyle": {
+    "strokeColor": "#B3B3B3"
+  }
+}
