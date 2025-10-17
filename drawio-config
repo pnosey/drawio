@@ -71,5 +71,31 @@
   ],
   "defaultEdgeStyle": {
     "strokeColor": "#B3B3B3"
-  }
+  },
+  "libraries": [
+    {
+      "title": {
+        "main": "HashiCorp"
+      },
+      "entries": [
+        {
+          "id": "hashicorp-graphics",
+          "title": {
+            "main": "Graphics"
+          },
+          "desc": {
+            "main": "Collection of Shapes for HashiCorp"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "HashiCorp"
+              },
+              "url": "https://github.com/pnosey/drawio/raw/main/HashiCorp_Shapes.xml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
