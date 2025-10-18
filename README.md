@@ -5,7 +5,7 @@
 4. Paste copied text into `Configuration:` box
 5. Click `Apply`
 
-This draw.io configuration will do the following:
+### This draw.io configuration will do the following:
 - Set Preset Colors to HashiCorp product colors (Terraform, Packer, Vault, Waypoint, Nomad, Boundary, and Consul)
 - Add Tooltips of the Product Names to their respective colors
 - Add custom Color Schemes to the Style for Shapes corresponding with the HashiCorp product colors with a light grey outline
