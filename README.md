@@ -7,6 +7,6 @@ This draw.io configuration will do the following:
 - Add Tooltips of the Product Names to their respective colors
 - Add custom Color Schemes to the Style for Shapes corresponding with the HashiCorp product colors with a light grey outline
 - Set default line color to same light grey as shape style outline
-- Load the Scratchpad with a custom Flowchart Shape Library with normalized sizing across shapes.
+- Load the Scratchpad with a custom Flowchart Shape Library (HashiCorp_Shapes.xml) with normalized sizing across shapes.
 - Set default page to landscape 8.5x11" aspect
 - Set new blank diagram to dark grey background and page view off
