@@ -72,9 +72,10 @@
   "defaultEdgeStyle": {
     "strokeColor": "#B3B3B3"
   },
-  "defaultCustomLibraries": "https%3A%2F%2Fgithub.com%2Fpnosey%2Fdrawio%2Fraw%2Fmain%2FHashiCorp_Shapes.xml",
+  "defaultCustomLibraries": "Uhttps%3A%2F%2Fgithub.com%2Fpnosey%2Fdrawio%2Fraw%2Fmain%2FHashiCorp_Shapes.xml",
   "pageFormat": {
     "width": "1100",
     "height": "850"
-  }
+  },
+  "emptyDiagramXml": "<mxGraphModel dx='1615' dy='1052' grid='1' gridSize='10' guides='1' tooltips='1' connect='1' arrows='1' fold='1' page='0' pageScale='1' pageWidth='1100' pageHeight='850' background='#4D4D4D' math='0' shadow='0'><root><mxCell id='0'/><mxCell id='1' parent='0'/></root></mxGraphModel>"
 }
